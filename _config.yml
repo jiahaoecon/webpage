@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiahao Lin (林家豪)"
+title                    : "Jiahao Lin 林家豪"
 title_separator          : "-"
 name                     : &name "Jiahao Lin"
 description              : &description "personal description"
