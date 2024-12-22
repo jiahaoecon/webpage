@@ -1,1 +1,1 @@
-[Download My CV](Academic_CV.pdf)
+[Download My CV](https://github.com/jiahaoecon/webpage/blob/1b3284d0e91c3703294861f961b57e7225cc3cf8/Academic_CV.pdf)
