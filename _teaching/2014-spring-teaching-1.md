@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
 ## ​Instructor
 * AECO350 Money and Banking, Fall 2024, Winter 2025 @​State University of New York, at Albany
 
