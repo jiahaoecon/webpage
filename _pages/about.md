@@ -13,5 +13,5 @@ redirect_from:
 
 I am very fortunate to be advised by Prof. Koomla Ulrich Hounyo.
 
-Please feel free to reach me at  jlin28@albany.edu .
+Please feel free to reach me at  `jlin28@albany.edu` .
 
