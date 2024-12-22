@@ -1,20 +1,11 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
+## ​Instructor
+* AECO350 Money and Banking, Fall 2024, Winter 2025 @​State University of New York, at Albany
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Teaching Assistant (Graduate Level)
+* AECO700 Microeconomics II, Spring 2023, Spring 2024 @​State University of New York, at Albany
+* AECO710 Mathematical Economics, Fall 2022, Fall 2023 @​State University of New York, at Albany
+* AECO405/505 Game Theory, Fall 2022 @​State University of New York, at Albany
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+## Teaching Assistant (Undergraduate Level)
+* AECO355 Public Finance, Spring 2023, Fall 2023, Spring 2024 @​State University of New York, at Albany
+* AECO300 Intermediate Microeconomics, Fall 2021, Spring 2022 @​State University of New York, at Albany
