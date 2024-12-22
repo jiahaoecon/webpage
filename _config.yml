@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jiahao Lin"
   pronouns         : # example: "he/his"  
-  bio              : "PhD candidate in Economics, State University of New York, at Albany"
+  bio              : # "PhD candidate in Economics, State University of New York, at Albany"
   location         : "Albany, NY"
   employer         : "SUNY at Albany"
   uri              : # URL
