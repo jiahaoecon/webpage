@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile-jiahao.png"
+  avatar           : "images/profile-jiahao.jpg"
   name             : "Jiahao Lin"
   pronouns         : # example: "he/his"  
   bio              : "PhD candidate in Economics, State University of New York, at Albany"
