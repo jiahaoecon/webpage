@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: # "Conference"
+title: ""
 permalink: /conference/
 author_profile: true
 ---
