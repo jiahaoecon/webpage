@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## Working Papers 
-​[Jackknife Standard Errors for Two-Way Clustering with Serially Correlated Time Effects​](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
+
+​* [Jackknife Standard Errors for Two-Way Clustering with Serially Correlated Time Effects​](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
 
 with **Koomla Ulrich Hounyo**, 2024
 
@@ -18,7 +19,7 @@ Chiang, Hansen, and Sasaki (2024) and Chen and Vogelsang (2024) developed cluste
 
 </details>
 
-[Reliable Wild Bootstrap Inference with Multiway Clustering​](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4701693)
+* [Reliable Wild Bootstrap Inference with Multiway Clustering​](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4701693)
 
 with **Koomla Ulrich Hounyo**, 2024.
 
@@ -30,7 +31,7 @@ This paper studies wild bootstrap-based inference for regression models with mul
 
 </details>
 
-[Can Mutual Fund ‘Stars’ Really Pick Stocks? New Evidence From a Wild Bootstrap Analysis​](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540917)
+* [Can Mutual Fund ‘Stars’ Really Pick Stocks? New Evidence From a Wild Bootstrap Analysis​](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540917)
 
 with **Koomla Ulrich Hounyo**, 2024.
 
