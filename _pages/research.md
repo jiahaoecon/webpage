@@ -1,7 +1,9 @@
+---
 layout: archive
 title: ""
 permalink: /research/
 author_profile: true
+---
 
 ## Working Papers 
 ​[Jackknife Standard Errors for Two-Way Clustering with Serially Correlated Time Effects​](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
