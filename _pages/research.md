@@ -1,3 +1,8 @@
+layout: archive
+title: ""
+permalink: /research/
+author_profile: true
+
 ## Working Papers 
 ​Jackknife Standard Errors for Two-Way Clustering with Serially Correlated Time Effects​
 with **Koomla Ulrich Hounyo**, 2024
