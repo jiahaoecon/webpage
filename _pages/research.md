@@ -11,7 +11,7 @@ author_profile: true
 Two-way Cluster Dependence with Serial Dependence
 
 (with K. Ulrich Hounyo)
-2025
+2025 [Replication](https://drive.google.com/file/d/1Do9v6XBE5gFe26wVe6dCtre-s35wEC91/view?usp=share_link)
 
 <details>
 
@@ -33,7 +33,7 @@ method, making it a robust tool for empirical work involving complex clustering 
 * [Jackknife Standard Errors for Two-Way Clustering with Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
 
 (with K. Ulrich Hounyo) 
-2025 [Replication](https://drive.google.com/file/d/1Do9v6XBE5gFe26wVe6dCtre-s35wEC91/view?usp=share_link)
+2025 
 
 <details>
 
