@@ -7,9 +7,33 @@ author_profile: true
 
 ## Working Papers 
 
+* Projection-Based Wild Bootstrap under General
+Two-way Cluster Dependence with Serial Dependence
+
+(with K. Ulrich Hounyo)
+2025
+
+<details>
+
+   <summary>   Abstract</summary>
+
+This paper introduces a projection-based wild bootstrap (PWB) method for inference
+in linear regression models with two-way clustered data. We examine all possible
+scenarios for the asymptotic distribution of the estimator—Gaussian and non-
+Gaussian—classifying them into five distinct cases. In one scenario, no procedure can
+achieve uniform consistency under a fully unspecified DGP, and our method is the first
+to cover the remaining four. We identify and apply two diagnostic factors to distinguish
+between these scenarios. In addition, our procedure accommodates arbitrary serial dependence.
+Simulation results demonstrate the accuracy and flexibility of the proposed
+method, making it a robust tool for empirical work involving complex clustering structures.
+
+</details>
+
+
 * [Jackknife Standard Errors for Two-Way Clustering with Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
 
-with **K. Ulrich Hounyo**, 2025.
+(with K. Ulrich Hounyo)
+2025
 
 <details>
 
@@ -22,7 +46,7 @@ Chiang, Hansen, and Sasaki (2024) and Chen and Vogelsang (2024) developed cluste
 
 * [Wild Bootstrap Inference with Multiway Clustering and Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4701693)
 
-with **K. Ulrich Hounyo**, 2025. [MWCB code](a)
+(with K. Ulrich Hounyo) 2025  [Replication](https://github.com/jiahaoecon/webpage/edit/master//MWCB_code.zip)
 
 <details>
 
@@ -35,7 +59,8 @@ with **K. Ulrich Hounyo**, 2025. [MWCB code](a)
 
 * [Can Mutual Fund ‘Stars’ Really Pick Stocks? New Evidence From a Wild Bootstrap Analysis​](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540917)
 
-with **K. Ulrich Hounyo**, 2025.
+(with K. Ulrich Hounyo)
+2025
 
 <details>
 
