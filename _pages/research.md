@@ -46,7 +46,7 @@ Chiang, Hansen, and Sasaki (2024) and Chen and Vogelsang (2024) developed cluste
 
 * [Wild Bootstrap Inference with Multiway Clustering and Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4701693)
 
-(with K. Ulrich Hounyo) 2025  [Replication](https://github.com/jiahaoecon/webpage/edit/master//MWCB_code.zip)
+(with K. Ulrich Hounyo) 2025  [Replication]([https://github.com/jiahaoecon/webpage/edit/master//MWCB_code.zip](https://drive.google.com/file/d/12FaOfkZU--zrd61438ZhZxyFV5HCBINf/view?usp=share_link))
 
 <details>
 
