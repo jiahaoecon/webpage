@@ -7,8 +7,8 @@ author_profile: true
 
 ## Working Papers 
 
-* Projection-Based Wild Bootstrap under General
-Two-way Cluster Dependence with Serial Dependence
+* [Projection-Based Wild Bootstrap under General
+Two-way Cluster Dependence with Serial Dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5358329)
 
 (with K. Ulrich Hounyo)
 2025 [Replication](https://drive.google.com/file/d/1Do9v6XBE5gFe26wVe6dCtre-s35wEC91/view?usp=share_link)
