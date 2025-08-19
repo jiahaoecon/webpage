@@ -4,6 +4,19 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
+## Publications
+* [Wild Bootstrap Inference with Multiway Clustering and Serially Correlated Time Effects](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2546454)
+
+(with K. Ulrich Hounyo) 2025  [Replication](https://drive.google.com/file/d/12FaOfkZU--zrd61438ZhZxyFV5HCBINf/view?usp=share_link)
+
+<details>
+
+<summary>Abstact</summary>
+
+   This paper studies wild bootstrap-based inference for regression models with multiway clustering. Our proposed method is a multiway counterpart to the (one-way) wild cluster bootstrap approach introduced by Cameron et al. (2008). We establish the validity of our method for studentized statistics. Theoretical results are provided, accommodating arbitrary serial dependence in the common time effects -- an aspect excluded by existing two-way bootstrap-based approaches. Simulation experiments document the potential for enhanced inference with our novel approach. We illustrate the effectiveness of the method by revisiting empirical studies involving multiway clustered and correlated data.
+
+</details>
+
 
 ## Working Papers 
 
@@ -43,18 +56,6 @@ Chiang, Hansen, and Sasaki (2024) and Chen and Vogelsang (2024) developed cluste
 
 </details>
 
-
-* [Wild Bootstrap Inference with Multiway Clustering and Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4701693)
-
-(with K. Ulrich Hounyo) 2025  [Replication](https://drive.google.com/file/d/12FaOfkZU--zrd61438ZhZxyFV5HCBINf/view?usp=share_link)
-
-<details>
-
-<summary>Abstact</summary>
-
-   This paper studies wild bootstrap-based inference for regression models with multiway clustering. Our proposed method is a multiway counterpart to the (one-way) wild cluster bootstrap approach introduced by Cameron et al. (2008). We establish the validity of our method for studentized statistics. Theoretical results are provided, accommodating arbitrary serial dependence in the common time effects -- an aspect excluded by existing two-way bootstrap-based approaches. Simulation experiments document the potential for enhanced inference with our novel approach. We illustrate the effectiveness of the method by revisiting empirical studies involving multiway clustered and correlated data.
-
-</details>
 
 
 * [Can Mutual Fund ‘Stars’ Really Pick Stocks? New Evidence From a Wild Bootstrap Analysis​](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540917)
