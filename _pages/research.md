@@ -7,7 +7,7 @@ author_profile: true
 ## Publications
 * [Wild Bootstrap Inference with Multiway Clustering and Serially Correlated Time Effects](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2546454)
 
-(with K. Ulrich Hounyo) 2025  [Replication](https://drive.google.com/file/d/12FaOfkZU--zrd61438ZhZxyFV5HCBINf/view?usp=share_link)
+(with K. Ulrich Hounyo) 2025  [Replication (Matlab)](https://drive.google.com/file/d/12FaOfkZU--zrd61438ZhZxyFV5HCBINf/view?usp=share_link)
 
 <details>
 
@@ -24,7 +24,7 @@ author_profile: true
 Two-way Cluster Dependence with Serial Dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5358329)
 
 (with K. Ulrich Hounyo)
-2025 [Replication](https://drive.google.com/file/d/1Do9v6XBE5gFe26wVe6dCtre-s35wEC91/view?usp=share_link)
+2025 [Replication (Matlab)](https://drive.google.com/file/d/1Do9v6XBE5gFe26wVe6dCtre-s35wEC91/view?usp=share_link)
 
 <details>
 
@@ -55,6 +55,26 @@ method, making it a robust tool for empirical work involving complex clustering 
 Chiang, Hansen, and Sasaki (2024) and Chen and Vogelsang (2024) developed cluster-robust variance estimators (CRVEs) for handling arbitrary serial dependence in linear regressions with two-way clustered panel data. However, conventional CRVEs often perform poorly in finite samples. We propose improved jackknife CRVEs to enhance inference accuracy. Through extensive simulations, we show that the novel jackknife CRVEs deliver remarkably precise inferences. This strong performance holds even in the presence of two-way  fixed effects. Notably, one of our new approaches significantly mitigates issues of undefined standard errors when CRVEs are not positive definite, ensuring robust and consistent inference across scenarios.
 
 </details>
+
+
+
+
+* [Two-way Clustering Robust Variance Estimator in Quantile Regression Models](https://arxiv.org/abs/2602.16376)
+
+(with K. Ulrich Hounyo) 
+2026 [Replication (Matlab)](https://drive.google.com/file/d/1KeFXdTPAXa3iXTwqTApt4SWIljcjDi4L/view?usp=sharing)  [Replication (Stata)](https://drive.google.com/file/d/1i_sEuy3lDVZWswrktqWbKTBuFZWMfqxm/view?usp=sharing)
+
+
+<details>
+
+   <summary>   Abstract</summary>
+
+We study inference for linear quantile regression with two-way clustered data. Using a separately exchangeable array framework and a projection decomposition of the quantile score, we characterize regime-dependent convergence rates and establish a self-normalized Gaussian approximation. We propose a two-way cluster-robust sandwich variance estimator with a kernel-based density ``bread'' and a projection-matched ``meat'', and prove consistency and validity of inference in Gaussian regimes. We also show an impossibility result for uniform inference in a non-Gaussian interaction regime.
+
+</details>
+
+
+
 
 
 
