@@ -46,7 +46,9 @@ method, making it a robust tool for empirical work involving complex clustering 
 * [Jackknife Standard Errors for Two-Way Clustering with Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
 
 (with K. Ulrich Hounyo) 
-2025 
+2025 [Replication (Matlab)](https://drive.google.com/file/d/1rJ9HeAiYAUqNVAh3xdjY6zxZ4dQWpBS1/view?usp=sharing)  
+
+
 
 <details>
 
