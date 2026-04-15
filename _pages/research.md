@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Publications
-* [Wild Bootstrap Inference with Multiway Clustering and Serially Correlated Time Effects](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2546454)
+### [Wild Bootstrap Inference with Multiway Clustering and Serially Correlated Time Effects](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2546454)
 
 (with K. Ulrich Hounyo) 2025  [Replication (Matlab)](https://drive.google.com/file/d/12FaOfkZU--zrd61438ZhZxyFV5HCBINf/view?usp=share_link)
 
@@ -20,8 +20,7 @@ author_profile: true
 
 ## Working Papers 
 
-* [Projection-Based Wild Bootstrap under General
-Two-way Cluster Dependence with Serial Dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5358329)
+### [Projection-Based Wild Bootstrap under General Two-way Cluster Dependence with Serial Dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5358329)
 
 (with K. Ulrich Hounyo)
 2025 [Replication (Matlab)](https://drive.google.com/file/d/1Do9v6XBE5gFe26wVe6dCtre-s35wEC91/view?usp=share_link)
@@ -43,7 +42,7 @@ method, making it a robust tool for empirical work involving complex clustering 
 </details>
 
 
-* [Jackknife Standard Errors for Two-Way Clustering with Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
+### [Jackknife Standard Errors for Two-Way Clustering with Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
 
 (with K. Ulrich Hounyo) 
 2025 [Replication (Matlab)](https://drive.google.com/file/d/1rJ9HeAiYAUqNVAh3xdjY6zxZ4dQWpBS1/view?usp=sharing)  
@@ -61,7 +60,7 @@ Chiang, Hansen, and Sasaki (2024) and Chen and Vogelsang (2024) developed cluste
 
 
 
-* [Two-way Clustering Robust Variance Estimator in Quantile Regression Models](https://arxiv.org/abs/2602.16376)
+### [Two-way Clustering Robust Variance Estimator in Quantile Regression Models](https://arxiv.org/abs/2602.16376)
 
 (with K. Ulrich Hounyo) 
 2026 [Replication (Matlab)](https://drive.google.com/file/d/1KeFXdTPAXa3iXTwqTApt4SWIljcjDi4L/view?usp=sharing)  [Replication (Stata)](https://drive.google.com/file/d/1i_sEuy3lDVZWswrktqWbKTBuFZWMfqxm/view?usp=sharing)
@@ -80,7 +79,7 @@ We study inference for linear quantile regression with two-way clustered data. U
 
 
 
-* [Can Mutual Fund ‘Stars’ Really Pick Stocks? New Evidence From a Wild Bootstrap Analysis​](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540917)
+### [Can Mutual Fund ‘Stars’ Really Pick Stocks? New Evidence From a Wild Bootstrap Analysis​](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540917)
 
 (with K. Ulrich Hounyo)
 2025
