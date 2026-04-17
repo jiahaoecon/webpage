@@ -7,7 +7,7 @@ author_profile: true
 ## Publications
 ### [Wild Bootstrap Inference with Multiway Clustering and Serially Correlated Time Effects](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2546454)
 
-(with K. Ulrich Hounyo) 2025  [Replication (Matlab)](https://drive.google.com/file/d/12FaOfkZU--zrd61438ZhZxyFV5HCBINf/view?usp=share_link)
+(with K. Ulrich Hounyo) 2025  [MATLAB](https://drive.google.com/file/d/12FaOfkZU--zrd61438ZhZxyFV5HCBINf/view?usp=share_link)
 
 <details>
 
@@ -23,7 +23,7 @@ author_profile: true
 ### [Projection-Based Wild Bootstrap under General Two-way Cluster Dependence with Serial Dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5358329)
 
 (with K. Ulrich Hounyo)
-2025 [Replication (Matlab)](https://drive.google.com/file/d/1Do9v6XBE5gFe26wVe6dCtre-s35wEC91/view?usp=share_link)
+2025 [MATLAB](https://drive.google.com/file/d/1Do9v6XBE5gFe26wVe6dCtre-s35wEC91/view?usp=share_link)
 
 <details>
 
@@ -45,7 +45,7 @@ method, making it a robust tool for empirical work involving complex clustering 
 ### [Jackknife Standard Errors for Two-Way Clustering with Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
 
 (with K. Ulrich Hounyo) 
-2025 [Replication (Matlab)](https://drive.google.com/file/d/1rJ9HeAiYAUqNVAh3xdjY6zxZ4dQWpBS1/view?usp=sharing)  
+2026 [MATLAB](https://drive.google.com/file/d/1qDJG9H4pii5RpUt-jIYIPJ5H2E8hPTVy/view?usp=sharing)  [Stata](https://drive.google.com/file/d/18wiunH8SEgNTIE5dzEylZ72ZSM63Hle7/view?usp=sharing)
 
 
 
@@ -63,7 +63,7 @@ Chiang, Hansen, and Sasaki (2024) and Chen and Vogelsang (2024) developed cluste
 ### [Two-way Clustering Robust Variance Estimator in Quantile Regression Models](https://arxiv.org/abs/2602.16376)
 
 (with K. Ulrich Hounyo) 
-2026 [Replication (Matlab)](https://drive.google.com/file/d/1KeFXdTPAXa3iXTwqTApt4SWIljcjDi4L/view?usp=sharing)  [Replication (Stata)](https://drive.google.com/file/d/1i_sEuy3lDVZWswrktqWbKTBuFZWMfqxm/view?usp=sharing)
+2026 [MATLAB](https://drive.google.com/file/d/1KeFXdTPAXa3iXTwqTApt4SWIljcjDi4L/view?usp=sharing)  [Stata](https://drive.google.com/file/d/1i_sEuy3lDVZWswrktqWbKTBuFZWMfqxm/view?usp=sharing)
 
 
 <details>
