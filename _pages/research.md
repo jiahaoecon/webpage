@@ -17,6 +17,19 @@ author_profile: true
 
 </details>
 
+### [Can Mutual Fund ‘Stars’ Really Pick Stocks? New Evidence From a Wild Bootstrap Analysis​](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540917)
+
+(with K. Ulrich Hounyo)
+2025
+
+<details>
+
+<summary>Abstact</summary>
+
+This paper introduces a novel approach called wild bootstrapping for analyzing mutual fund performance. Our proposed method preserves various characteristics of mutual fund databases, including entry/exit points for each fund (i.e., missing data) and cross-sectional information. We show that our proposed bootstrap tests have a near-optimal size and exhibit greater power compared to widely used standard bootstrap methods for evaluating mutual fund performance. Additionally, we present a novel approach to picking mutual funds that do not underperform others. Our empirical results indicate that a measurable fraction of funds outperform the market. Furthermore, we extend our methods to assess mutual fund market timing abilities.
+
+</details>
+
 
 ## Working Papers 
 
@@ -75,19 +88,20 @@ We study inference for linear quantile regression with two-way clustered data. U
 </details>
 
 
+### Estimation and Inference for the $\tau$-Quantile of Individual Heterogeneous Coefficient
 
+(with Antonio F. Galvao and K. Ulrich Hounyo) 
+2026 
 
-
-
-### [Can Mutual Fund ‘Stars’ Really Pick Stocks? New Evidence From a Wild Bootstrap Analysis​](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540917)
-
-(with K. Ulrich Hounyo)
-2025
 
 <details>
 
-<summary>Abstact</summary>
+   <summary>   Abstract</summary>
 
-This paper introduces a novel approach called wild bootstrapping for analyzing mutual fund performance. Our proposed method preserves various characteristics of mutual fund databases, including entry/exit points for each fund (i.e., missing data) and cross-sectional information. We show that our proposed bootstrap tests have a near-optimal size and exhibit greater power compared to widely used standard bootstrap methods for evaluating mutual fund performance. Additionally, we present a novel approach to picking mutual funds that do not underperform others. Our empirical results indicate that a measurable fraction of funds outperform the market. Furthermore, we extend our methods to assess mutual fund market timing abilities.
+This paper proposes estimation and inference procedures for the quantiles of individual heterogeneous slope coefficients within panel data. We develop a two-step quantile estimation framework for analyzing heterogeneity in individual coefficients. Unlike conventional panel quantile regression, which focuses on outcome heterogeneity, our approach targets the $\tau$-quantile of the cross-sectional distribution of individual-specific slopes. We establish asymptotic theory under both stochastic and deterministic designs, with convergence rates $\sqrt{N}$ and $\sqrt{N\sqrt{T}}$, respectively. We also develop two corresponding bootstrap procedures for practical inference, and formally establish their validity. The suggested methods are of practical interest since they require weaker sample size growth conditions than standard fixed-effect quantile regression, and accommodate large $N$ settings. Numerical simulations and an application to mutual fund performance illustrate the proposed methods and the heterogeneity patterns they reveal across quantiles.
 
 </details>
+
+
+
+
