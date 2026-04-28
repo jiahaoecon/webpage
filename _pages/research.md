@@ -33,7 +33,7 @@ This paper introduces a novel approach called wild bootstrapping for analyzing m
 
 ## Working Papers 
 
-### [Projection-Based Wild Bootstrap under General Two-way Cluster Dependence with Serial Dependence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5358329)
+### [Bootstrap Inference under General Two-way Cluster Dependence with Common Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5358329)
 
 (with K. Ulrich Hounyo)
 2025 [MATLAB](https://drive.google.com/file/d/1Do9v6XBE5gFe26wVe6dCtre-s35wEC91/view?usp=share_link)
@@ -55,7 +55,7 @@ method, making it a robust tool for empirical work involving complex clustering 
 </details>
 
 
-### [Jackknife Standard Errors for Two-Way Clustering with Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
+### [Jackknife Variance Estimators for Two-Way Clustering with Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
 
 (with K. Ulrich Hounyo) 
 2026 [MATLAB](https://drive.google.com/file/d/1qDJG9H4pii5RpUt-jIYIPJ5H2E8hPTVy/view?usp=sharing)  [Stata](https://drive.google.com/file/d/1j4DYWiTqHxaZIPidARXHQGVdr7-jSJNy/view?usp=sharing)
