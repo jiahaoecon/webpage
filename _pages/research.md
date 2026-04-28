@@ -33,7 +33,7 @@ This paper introduces a novel approach called wild bootstrapping for analyzing m
 
 ## Working Papers 
 
-### [Bootstrap Inference under General Two-way Cluster Dependence with Common Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5358329)
+### [Bootstrap Inference under General Two-way Cluster Dependence with Serially and Spatially Dependent Common Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5358329)
 
 (with K. Ulrich Hounyo)
 2025 [MATLAB](https://drive.google.com/file/d/1Do9v6XBE5gFe26wVe6dCtre-s35wEC91/view?usp=share_link)
