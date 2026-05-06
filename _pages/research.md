@@ -17,7 +17,7 @@ author_profile: true
 
 </details>
 
-### [Can Mutual Fund ‘Stars’ Really Pick Stocks? New Evidence From a Wild Bootstrap Analysis​](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540917)
+### [Can Mutual Fund ‘Stars’ Really Pick Stocks? New Evidence From a Wild Bootstrap Analysis​](https://www.sciencedirect.com/science/article/abs/pii/S0927539825000957)
 
 (with K. Ulrich Hounyo)
 2025
