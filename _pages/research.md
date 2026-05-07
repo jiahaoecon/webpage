@@ -42,15 +42,9 @@ This paper introduces a novel approach called wild bootstrapping for analyzing m
 
    <summary>   Abstract</summary>
 
-This paper introduces a projection-based wild bootstrap (PWB) method for inference
-in linear regression models with two-way clustered data. We examine all possible
-scenarios for the asymptotic distribution of the estimator—Gaussian and non-
-Gaussian—classifying them into five distinct cases. In one scenario, no procedure can
-achieve uniform consistency under a fully unspecified DGP, and our method is the first
-to cover the remaining four. We identify and apply two diagnostic factors to distinguish
-between these scenarios. In addition, our procedure accommodates arbitrary serial dependence.
-Simulation results demonstrate the accuracy and flexibility of the proposed
-method, making it a robust tool for empirical work involving complex clustering structures.
+This paper develops bootstrap procedures for inference in linear regression models with two-way clustered data. We characterize the estimator's asymptotic behavior in five mutually exclusive and exhaustive regimes: three Gaussian and two non-Gaussian. We establish four impossibility results: heterogeneous score components preclude uniform consistency; uniform consistency also fails in one non-Gaussian (infeasible) regime; the infeasible regime is not uniformly distinguishable from a feasible one; and uniform validity over all feasible regimes rules out uniform conservativeness over the infeasible regime.
+
+To address the feasible regimes, we propose a data-driven regime classifier and a projection-based wild bootstrap procedure. The procedure delivers uniformly valid inference across the four feasible regimes while allowing serial dependence along the second clustering dimension and spatial dependence along the first. This combination of regime adaptivity and flexible dependence is new to the two-way clustering literature. Monte Carlo simulations confirm the accuracy and flexibility of the proposed methods in settings with complex clustering structures.
 
 </details>
 
