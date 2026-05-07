@@ -91,7 +91,7 @@ We study inference for linear quantile regression with two-way clustered data. U
 ### [Estimation and Inference for the $\tau$-Quantile of Individual-Specific Heterogeneous Coefficients](https://arxiv.org/abs/2605.01923)
 
 (with Antonio F. Galvao and K. Ulrich Hounyo) 
-2026 
+2026 [MATLAB](https://drive.google.com/file/d/1MWhmZGDeFd_qkPIngWt7zo3R4NrBHWem/view?usp=sharing)
 
 
 <details>
