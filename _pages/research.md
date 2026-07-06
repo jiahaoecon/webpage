@@ -7,7 +7,8 @@ author_profile: true
 ## Publications
 ### [Wild Bootstrap Inference with Multiway Clustering and Serially Correlated Time Effects](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2546454)
 
-(with K. Ulrich Hounyo) 2025  [MATLAB](https://drive.google.com/file/d/12FaOfkZU--zrd61438ZhZxyFV5HCBINf/view?usp=share_link)
+with **K. Ulrich Hounyo** (*Journal of Business & Economic Statistics* 2026, 44(2): 601-12)
+[MATLAB](https://drive.google.com/file/d/12FaOfkZU--zrd61438ZhZxyFV5HCBINf/view?usp=share_link)
 
 <details>
 
@@ -19,8 +20,7 @@ author_profile: true
 
 ### [Can Mutual Fund ‘Stars’ Really Pick Stocks? New Evidence From a Wild Bootstrap Analysis​](https://www.sciencedirect.com/science/article/abs/pii/S0927539825000957)
 
-(with K. Ulrich Hounyo)
-2025
+with **K. Ulrich Hounyo** (*Journal of Empirical Finance*, forthcoming)
 
 <details>
 
@@ -30,29 +30,11 @@ This paper introduces a novel approach called wild bootstrapping for analyzing m
 
 </details>
 
-
-## Working Papers 
-
-### [Bootstrap Inference under General Two-way Cluster Dependence with Serially and Spatially Dependent Common Effects](https://arxiv.org/abs/2605.00709)
-
-(with K. Ulrich Hounyo)
-2025 [MATLAB](https://drive.google.com/file/d/1Do9v6XBE5gFe26wVe6dCtre-s35wEC91/view?usp=share_link)
-
-<details>
-
-   <summary>   Abstract</summary>
-
-This paper develops bootstrap procedures for inference in linear regression models with two-way clustered data. We characterize the estimator's asymptotic behavior in five mutually exclusive and exhaustive regimes: three Gaussian and two non-Gaussian. We establish four impossibility results: heterogeneous score components preclude uniform consistency; uniform consistency also fails in one non-Gaussian (infeasible) regime; the infeasible regime is not uniformly distinguishable from a feasible one; and uniform validity over all feasible regimes rules out uniform conservativeness over the infeasible regime.
-
-To address the feasible regimes, we propose a data-driven regime classifier and a projection-based wild bootstrap procedure. The procedure delivers uniformly valid inference across the four feasible regimes while allowing serial dependence along the second clustering dimension and spatial dependence along the first. This combination of regime adaptivity and flexible dependence is new to the two-way clustering literature. Monte Carlo simulations confirm the accuracy and flexibility of the proposed methods in settings with complex clustering structures.
-
-</details>
-
+## Revise and Resubmit
 
 ### [Jackknife Variance Estimators for Two-Way Clustering with Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
 
-(with K. Ulrich Hounyo) 
-2026 [MATLAB](https://drive.google.com/file/d/1qDJG9H4pii5RpUt-jIYIPJ5H2E8hPTVy/view?usp=sharing)  [Stata](https://drive.google.com/file/d/1j4DYWiTqHxaZIPidARXHQGVdr7-jSJNy/view?usp=sharing)
+with **K. Ulrich Hounyo** (RR at *Journal of Econometrics*, 2026) [MATLAB](https://drive.google.com/file/d/1qDJG9H4pii5RpUt-jIYIPJ5H2E8hPTVy/view?usp=sharing)  [Stata](https://drive.google.com/file/d/1j4DYWiTqHxaZIPidARXHQGVdr7-jSJNy/view?usp=sharing)
 
 
 
@@ -65,12 +47,28 @@ Chiang, Hansen, and Sasaki (2024) and Chen and Vogelsang (2024) developed cluste
 </details>
 
 
+## Working Papers 
+
+### [Bootstrap Inference under General Two-way Cluster Dependence with Serially and Spatially Dependent Common Effects](https://arxiv.org/abs/2605.00709)
+
+with **K. Ulrich Hounyo** (2026) [MATLAB](https://drive.google.com/file/d/1Do9v6XBE5gFe26wVe6dCtre-s35wEC91/view?usp=share_link)
+
+<details>
+
+   <summary>   Abstract</summary>
+
+This paper develops bootstrap procedures for inference in linear regression models with two-way clustered data. We characterize the estimator's asymptotic behavior in five mutually exclusive and exhaustive regimes: three Gaussian and two non-Gaussian. We establish four impossibility results: heterogeneous score components preclude uniform consistency; uniform consistency also fails in one non-Gaussian (infeasible) regime; the infeasible regime is not uniformly distinguishable from a feasible one; and uniform validity over all feasible regimes rules out uniform conservativeness over the infeasible regime.
+
+To address the feasible regimes, we propose a data-driven regime classifier and a projection-based wild bootstrap procedure. The procedure delivers uniformly valid inference across the four feasible regimes while allowing serial dependence along the second clustering dimension and spatial dependence along the first. This combination of regime adaptivity and flexible dependence is new to the two-way clustering literature. Monte Carlo simulations confirm the accuracy and flexibility of the proposed methods in settings with complex clustering structures.
+
+</details>
+
+
 
 
 ### [Two-way Clustering Robust Variance Estimator in Quantile Regression Models](https://arxiv.org/abs/2602.16376)
 
-(with K. Ulrich Hounyo) 
-2026 [MATLAB](https://drive.google.com/file/d/1KeFXdTPAXa3iXTwqTApt4SWIljcjDi4L/view?usp=sharing)  [Stata](https://drive.google.com/file/d/1i_sEuy3lDVZWswrktqWbKTBuFZWMfqxm/view?usp=sharing)
+with **K. Ulrich Hounyo** (2026) [MATLAB](https://drive.google.com/file/d/1KeFXdTPAXa3iXTwqTApt4SWIljcjDi4L/view?usp=sharing)  [Stata](https://drive.google.com/file/d/1i_sEuy3lDVZWswrktqWbKTBuFZWMfqxm/view?usp=sharing)
 
 
 <details>
@@ -84,8 +82,8 @@ We study inference for linear quantile regression with two-way clustered data. U
 
 ### [Estimation and Inference for the $\tau$-Quantile of Individual-Specific Heterogeneous Coefficients](https://arxiv.org/abs/2605.01923)
 
-(with Antonio F. Galvao and K. Ulrich Hounyo) 
-2026 [MATLAB](https://drive.google.com/file/d/1CamFBjVdSqV1ETUoq71dgcf5pw4r_Ajx/view?usp=sharing)
+with **Antonio F. Galvao** and **K. Ulrich Hounyo** (2026)
+[MATLAB](https://drive.google.com/file/d/1CamFBjVdSqV1ETUoq71dgcf5pw4r_Ajx/view?usp=sharing)
 
 
 <details>
@@ -96,6 +94,16 @@ This paper proposes estimation and inference procedures for the quantiles of ind
 
 </details>
 
+### [Robust Inference for Dyadic Data with Dependent Ordered Nodes](https://arxiv.org/abs/2605.28349)
 
+with **K. Ulrich Hounyo** and **Xiaojun Song** (2026)
+
+<details>
+
+ <summary>   Abstract</summary>
+ 
+Dyadic regression models are commonly analyzed under the conventional dyadic dependence paradigm, in which two observations may be dependent only if the corresponding dyads share a node. This paper studies inference when this paradigm breaks down because nodes are ordered and nearby nodes are exposed to common latent shocks. In this setting, dyads with no common endpoint may still be dependent when their endpoints are close in the ordering. Although each additional covariance term may be weak, the number of nearby-node dyad pairs diverges with the sample size, so their aggregate contribution to the asymptotic variance can be non-negligible. We develop an inferential framework for dyadic arrays with ordered-node dependence. The first estimator is a dependent-node dyadic CRVE that retains covariance terms between dyads with nearby endpoints. The second is a row-column moving-block jackknife that deletes adjacent blocks of nodes together with all dyads touching those nodes. We establish the asymptotic validity of both procedures under weak dependence along the ordered node index. Monte Carlo evidence shows that accounting for ordered-node dependence can substantially improve size control, and that the jackknife version is comparatively stable in finite samples.
+
+</details>
 
 
