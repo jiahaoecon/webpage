@@ -4,8 +4,8 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-## Publications
-### [Wild Bootstrap Inference with Multiway Clustering and Serially Correlated Time Effects](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2546454)
+# Publications
+#### [Wild Bootstrap Inference with Multiway Clustering and Serially Correlated Time Effects](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2546454)
 
 with **K. Ulrich Hounyo** (*Journal of Business & Economic Statistics* 2026, 44(2): 601-12)
 [MATLAB](https://drive.google.com/file/d/12FaOfkZU--zrd61438ZhZxyFV5HCBINf/view?usp=share_link)
@@ -18,9 +18,9 @@ with **K. Ulrich Hounyo** (*Journal of Business & Economic Statistics* 2026, 44(
 
 </details>
 
-### [Can Mutual Fund ‘Stars’ Really Pick Stocks? New Evidence From a Wild Bootstrap Analysis​](https://www.sciencedirect.com/science/article/abs/pii/S0927539825000957)
+#### [Can Mutual Fund ‘Stars’ Really Pick Stocks? New Evidence From a Wild Bootstrap Analysis​](https://www.sciencedirect.com/science/article/abs/pii/S0927539825000957)
 
-with **K. Ulrich Hounyo** (*Journal of Empirical Finance*, forthcoming)
+with **K. Ulrich Hounyo** (*Journal of Empirical Finance* 2026, 85, 101673)
 
 <details>
 
@@ -30,9 +30,9 @@ This paper introduces a novel approach called wild bootstrapping for analyzing m
 
 </details>
 
-## Revise and Resubmit
+# Revise and Resubmit
 
-### [Jackknife Variance Estimators for Two-Way Clustering with Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
+#### [Jackknife Variance Estimators for Two-Way Clustering with Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
 
 with **K. Ulrich Hounyo** (RR at *Journal of Econometrics*, 2026) [MATLAB](https://drive.google.com/file/d/1qDJG9H4pii5RpUt-jIYIPJ5H2E8hPTVy/view?usp=sharing)  [Stata](https://drive.google.com/file/d/1j4DYWiTqHxaZIPidARXHQGVdr7-jSJNy/view?usp=sharing)
 
@@ -47,9 +47,9 @@ Chiang, Hansen, and Sasaki (2024) and Chen and Vogelsang (2024) developed cluste
 </details>
 
 
-## Working Papers 
+# Working Papers 
 
-### [Bootstrap Inference under General Two-way Cluster Dependence with Serially and Spatially Dependent Common Effects](https://arxiv.org/abs/2605.00709)
+#### [Bootstrap Inference under General Two-way Cluster Dependence with Serially and Spatially Dependent Common Effects](https://arxiv.org/abs/2605.00709)
 
 with **K. Ulrich Hounyo** (2026) [MATLAB](https://drive.google.com/file/d/1Do9v6XBE5gFe26wVe6dCtre-s35wEC91/view?usp=share_link)
 
@@ -66,7 +66,7 @@ To address the feasible regimes, we propose a data-driven regime classifier and 
 
 
 
-### [Two-way Clustering Robust Variance Estimator in Quantile Regression Models](https://arxiv.org/abs/2602.16376)
+#### [Two-way Clustering Robust Variance Estimator in Quantile Regression Models](https://arxiv.org/abs/2602.16376)
 
 with **K. Ulrich Hounyo** (2026) [MATLAB](https://drive.google.com/file/d/1KeFXdTPAXa3iXTwqTApt4SWIljcjDi4L/view?usp=sharing)  [Stata](https://drive.google.com/file/d/1i_sEuy3lDVZWswrktqWbKTBuFZWMfqxm/view?usp=sharing)
 
@@ -80,7 +80,7 @@ We study inference for linear quantile regression with two-way clustered data. U
 </details>
 
 
-### [Estimation and Inference for the τ-Quantile of Individual-Specific Heterogeneous Coefficients](https://arxiv.org/abs/2605.01923)
+#### [Estimation and Inference for the τ-Quantile of Individual-Specific Heterogeneous Coefficients](https://arxiv.org/abs/2605.01923)
 
 with **Antonio F. Galvao** and **K. Ulrich Hounyo** (2026)
 [MATLAB](https://drive.google.com/file/d/1CamFBjVdSqV1ETUoq71dgcf5pw4r_Ajx/view?usp=sharing)
@@ -94,7 +94,7 @@ This paper proposes estimation and inference procedures for the quantiles of ind
 
 </details>
 
-### [Robust Inference for Dyadic Data with Dependent Ordered Nodes](https://arxiv.org/abs/2605.28349)
+#### [Robust Inference for Dyadic Data with Dependent Ordered Nodes](https://arxiv.org/abs/2605.28349)
 
 with **K. Ulrich Hounyo** and **Xiaojun Song** (2026)
 
