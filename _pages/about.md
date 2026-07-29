@@ -13,6 +13,6 @@ My research interests lie in econometrics, with a particular emphasis on high-di
 
 My long-term objective is to promote the integration of econometric theory into empirical work by developing inference tools that are both robust and easy to implement.
 
-I am very fortunate to be advised by Prof. Koomla Ulrich Hounyo.
+I am very fortunate to be advised by Prof. K. Ulrich Hounyo.
 
 Please feel free to reach me at  `jlin28@albany.edu` .
