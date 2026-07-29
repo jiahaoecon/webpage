@@ -18,6 +18,7 @@ with **K. Ulrich Hounyo** (*Journal of Business & Economic Statistics* 2026, 44(
 
 </details>
 
+
 ### [Can Mutual Fund ‘Stars’ Really Pick Stocks? New Evidence From a Wild Bootstrap Analysis​](https://www.sciencedirect.com/science/article/abs/pii/S0927539825000957)
 
 with **K. Ulrich Hounyo** (*Journal of Empirical Finance* 2026, 85, 101673)
@@ -29,6 +30,7 @@ with **K. Ulrich Hounyo** (*Journal of Empirical Finance* 2026, 85, 101673)
 This paper introduces a novel approach called wild bootstrapping for analyzing mutual fund performance. Our proposed method preserves various characteristics of mutual fund databases, including entry/exit points for each fund (i.e., missing data) and cross-sectional information. We show that our proposed bootstrap tests have a near-optimal size and exhibit greater power compared to widely used standard bootstrap methods for evaluating mutual fund performance. Additionally, we present a novel approach to picking mutual funds that do not underperform others. Our empirical results indicate that a measurable fraction of funds outperform the market. Furthermore, we extend our methods to assess mutual fund market timing abilities.
 
 </details>
+<br>
 
 # Revise and Resubmit
 
@@ -45,12 +47,11 @@ with **K. Ulrich Hounyo** (RR at *Journal of Econometrics*, 2026) [MATLAB](https
 Chiang, Hansen, and Sasaki (2024) and Chen and Vogelsang (2024) developed cluster-robust variance estimators (CRVEs) for handling arbitrary serial dependence in linear regressions with two-way clustered panel data. However, conventional CRVEs often perform poorly in finite samples. We propose improved jackknife CRVEs to enhance inference accuracy. Through extensive simulations, we show that the novel jackknife CRVEs deliver remarkably precise inferences. This strong performance holds even in the presence of two-way  fixed effects. Notably, one of our new approaches significantly mitigates issues of undefined standard errors when CRVEs are not positive definite, ensuring robust and consistent inference across scenarios.
 
 </details>
-
+<br>
 
 # Working Papers 
 
 ### [Bootstrap Inference under General Two-way Cluster Dependence with Serially and Spatially Dependent Common Effects](https://arxiv.org/abs/2605.00709)
-
 with **K. Ulrich Hounyo** (2026) [MATLAB](https://drive.google.com/file/d/1Do9v6XBE5gFe26wVe6dCtre-s35wEC91/view?usp=share_link)
 
 <details>
