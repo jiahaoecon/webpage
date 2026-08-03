@@ -15,4 +15,4 @@ My long-term objective is to promote the integration of econometric theory into 
 
 I am very fortunate to be advised by Prof. K. Ulrich Hounyo.
 
-Please feel free to reach me at  `jlin28@albany.edu` .
+Please feel free to reach me at  `linjiahao.bc@gmail.com` .
