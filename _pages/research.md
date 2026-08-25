@@ -36,7 +36,7 @@ This paper introduces a novel approach called wild bootstrapping for analyzing m
 
 ### [Jackknife Variance Estimators for Two-Way Clustering with Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
 
-with **K. Ulrich Hounyo** (RR at *Journal of Econometrics*, 2026) [MATLAB](https://drive.google.com/file/d/1qDJG9H4pii5RpUt-jIYIPJ5H2E8hPTVy/view?usp=sharing)  [Stata](https://drive.google.com/file/d/1j4DYWiTqHxaZIPidARXHQGVdr7-jSJNy/view?usp=sharing)
+with **K. Ulrich Hounyo** (RR at *Journal of Econometrics*, 2024) [MATLAB](https://drive.google.com/file/d/1qDJG9H4pii5RpUt-jIYIPJ5H2E8hPTVy/view?usp=sharing)  [Stata](https://drive.google.com/file/d/1j4DYWiTqHxaZIPidARXHQGVdr7-jSJNy/view?usp=sharing)
 
 
 
@@ -104,6 +104,36 @@ with **K. Ulrich Hounyo** and **Xiaojun Song** (2026)
  <summary>   Abstract</summary>
  
 Dyadic regression models are commonly analyzed under the conventional dyadic dependence paradigm, in which two observations may be dependent only if the corresponding dyads share a node. This paper studies inference when this paradigm breaks down because nodes are ordered and nearby nodes are exposed to common latent shocks. In this setting, dyads with no common endpoint may still be dependent when their endpoints are close in the ordering. Although each additional covariance term may be weak, the number of nearby-node dyad pairs diverges with the sample size, so their aggregate contribution to the asymptotic variance can be non-negligible. We develop an inferential framework for dyadic arrays with ordered-node dependence. The first estimator is a dependent-node dyadic CRVE that retains covariance terms between dyads with nearby endpoints. The second is a row-column moving-block jackknife that deletes adjacent blocks of nodes together with all dyads touching those nodes. We establish the asymptotic validity of both procedures under weak dependence along the ordered node index. Monte Carlo evidence shows that accounting for ordered-node dependence can substantially improve size control, and that the jackknife version is comparatively stable in finite samples.
+
+</details>
+
+
+### [Specification Testing for Dyadic Regression Models](https://arxiv.org/abs/2607.26366)
+
+with **K. Ulrich Hounyo** and **Xiaojun Song** (2026)
+
+<details>
+
+ <summary>   Abstract</summary>
+ 
+This paper develops omnibus specification tests for linear conditional-mean models with undirected dyadic data. We establish a uniform projection theorem that reduces the dyadic process to its latent first-order node projections under shared-node dependence. We then show that a raw first-order node-multiplier bootstrap is valid when this node component is nondegenerate but double-counts dyad-specific variation when dyads are independent. An exact covariance decomposition motivates a corrected Gaussian bootstrap that is valid in both regimes. The resulting Kolmogorov-Smirnov and Cramér-von Mises tests are consistent against fixed alternatives and have nontrivial power against rate-appropriate local alternatives. Simulations show that the corrected Kolmogorov-Smirnov test provides the most stable size control while retaining substantial local power. An application to the Lazega law-firm network rejects additive linear and quadratic specifications but finds no remaining misspecification after including an economically relevant interaction.
+
+</details>
+
+
+### Smoothed GMM for Panel Quantile Models with Endogenous Regressors
+
+with **Antonio F. Galvao** and **K. Ulrich Hounyo** (2026)
+[MATLAB](https://drive.google.com/file/d/1wxqmJyZq8S6NciD4Hi6YhEDTTrRigLyJ/view?usp=sharing)
+
+
+<details>
+
+   <summary>   Abstract</summary>
+
+This paper develops a smoothed generalized method of moments framework for panel quantile models with individual-specific fixed effects and endogenous regressors. By smoothing the indicator in the quantile moment conditions and profiling out the individual effects through smoothed individual quantile restrictions, the proposed estimator can be implemented using standard GMM algorithms.
+We establish consistency, asymptotic normality, and feasible inference under weak time dependence as both panel dimensions diverge. This dependence structure accommodates dynamic panel specifications, serially dependent disturbances, lagged instruments, and within-individual heteroskedasticity and autocorrelation consistent inference. Monte Carlo simulations show that the estimator yields robust inference while remaining computationally tractable. An application to OECD inflation dynamics suggests asymmetric inflation propagation: under the structural IVQR interpretation, the response of current inflation to lagged inflation is substantially larger at the lower structural quantile than at the upper structural quantile.
+
 
 </details>
 
