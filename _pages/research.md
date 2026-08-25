@@ -16,7 +16,7 @@ author_profile: true
 
      This paper studies wild bootstrap-based inference for regression models with multiway clustering. Our proposed method is a multiway counterpart to the (one-way) wild cluster bootstrap approach introduced by Cameron et al. (2008). We establish the validity of our method for studentized statistics. Theoretical results are provided, accommodating arbitrary serial dependence in the common time effects -- an aspect excluded by existing two-way bootstrap-based approaches. Simulation experiments document the potential for enhanced inference with our novel approach. We illustrate the effectiveness of the method by revisiting empirical studies involving multiway clustered and correlated data.
 
-</details>
+
 
 
 * ### [Can Mutual Fund ‘Stars’ Really Pick Stocks? New Evidence From a Wild Bootstrap Analysis​](https://www.sciencedirect.com/science/article/abs/pii/S0927539825000957)
@@ -29,7 +29,7 @@ author_profile: true
 
   This paper introduces a novel approach called wild bootstrapping for analyzing mutual fund performance. Our proposed method preserves various characteristics of mutual fund databases, including entry/exit points for each fund (i.e., missing data) and cross-sectional information. We show that our proposed bootstrap tests have a near-optimal size and exhibit greater power compared to widely used standard bootstrap methods for evaluating mutual fund performance. Additionally, we present a novel approach to picking mutual funds that do not underperform others. Our empirical results indicate that a measurable fraction of funds outperform the market. Furthermore, we extend our methods to assess mutual fund market timing abilities.
 
-</details>
+
 <br>
 
 # Revise and Resubmit
@@ -46,7 +46,7 @@ author_profile: true
 
   Chiang, Hansen, and Sasaki (2024) and Chen and Vogelsang (2024) developed cluster-robust variance estimators (CRVEs) for handling arbitrary serial dependence in linear regressions with two-way clustered panel data. However, conventional CRVEs often perform poorly in finite samples. We propose improved jackknife CRVEs to enhance inference accuracy. Through extensive simulations, we show that the novel jackknife CRVEs deliver remarkably precise inferences. This strong performance holds even in the presence of two-way  fixed effects. Notably, one of our new approaches significantly mitigates issues of undefined standard errors when CRVEs are not positive definite, ensuring robust and consistent inference across scenarios.
 
-</details>
+
 <br>
 
 # Working Papers 
@@ -62,7 +62,7 @@ author_profile: true
 
   To address the feasible regimes, we propose a data-driven regime classifier and a projection-based wild bootstrap procedure. The procedure delivers uniformly valid inference across the four feasible regimes while allowing serial dependence along the second clustering dimension and spatial dependence along the first. This combination of regime adaptivity and flexible dependence is new to the two-way clustering literature. Monte Carlo simulations confirm the accuracy and flexibility of the proposed methods in settings with complex clustering structures.
 
-</details>
+
 
 
 
@@ -78,7 +78,7 @@ author_profile: true
 
   We study inference for linear quantile regression with two-way clustered data. Using a separately exchangeable array framework and a projection decomposition of the quantile score, we characterize regime-dependent convergence rates and establish a self-normalized Gaussian approximation. We propose a two-way cluster-robust sandwich variance estimator with a kernel-based density bread and a projection-matched meat, and prove consistency and validity of inference in Gaussian regimes. We also show an impossibility result for uniform inference in a non-Gaussian interaction regime.
 
-</details>
+
 
 
 * ### [Estimation and Inference for the τ-Quantile of Individual-Specific Heterogeneous Coefficients](https://arxiv.org/abs/2605.01923)
@@ -93,7 +93,7 @@ author_profile: true
 
   This paper proposes estimation and inference procedures for the quantiles of individual heterogeneous slope coefficients within panel data. We develop a two-step quantile estimation framework for analyzing heterogeneity in individual coefficients. Unlike conventional panel quantile regression, which focuses on outcome heterogeneity, our approach targets the $\tau$-quantile of the cross-sectional distribution of individual-specific slopes. We establish asymptotic theory under both stochastic and deterministic designs, with convergence rates $\sqrt{N}$ and $\sqrt{N\sqrt{T}}$, respectively. We also develop two corresponding bootstrap procedures for practical inference, and formally establish their validity. The suggested methods are of practical interest since they require weaker sample size growth conditions than standard fixed-effect quantile regression, and accommodate large $N$ settings. Numerical simulations and an application to mutual fund performance illustrate the proposed methods and the heterogeneity patterns they reveal across quantiles.
 
-</details>
+
 
 * ### [Robust Inference for Dyadic Data with Dependent Ordered Nodes](https://arxiv.org/abs/2605.28349)
 
@@ -105,7 +105,6 @@ author_profile: true
  
   Dyadic regression models are commonly analyzed under the conventional dyadic dependence paradigm, in which two observations may be dependent only if the corresponding dyads share a node. This paper studies inference when this paradigm breaks down because nodes are ordered and nearby nodes are exposed to common latent shocks. In this setting, dyads with no common endpoint may still be dependent when their endpoints are close in the ordering. Although each additional covariance term may be weak, the number of nearby-node dyad pairs diverges with the sample size, so their aggregate contribution to the asymptotic variance can be non-negligible. We develop an inferential framework for dyadic arrays with ordered-node dependence. The first estimator is a dependent-node dyadic CRVE that retains covariance terms between dyads with nearby endpoints. The second is a row-column moving-block jackknife that deletes adjacent blocks of nodes together with all dyads touching those nodes. We establish the asymptotic validity of both procedures under weak dependence along the ordered node index. Monte Carlo evidence shows that accounting for ordered-node dependence can substantially improve size control, and that the jackknife version is comparatively stable in finite samples.
 
-</details>
 
 
 * ### [Specification Testing for Dyadic Regression Models](https://arxiv.org/abs/2607.26366)
@@ -118,7 +117,7 @@ author_profile: true
  
   This paper develops omnibus specification tests for linear conditional-mean models with undirected dyadic data. We establish a uniform projection theorem that reduces the dyadic process to its latent first-order node projections under shared-node dependence. We then show that a raw first-order node-multiplier bootstrap is valid when this node component is nondegenerate but double-counts dyad-specific variation when dyads are independent. An exact covariance decomposition motivates a corrected Gaussian bootstrap that is valid in both regimes. The resulting Kolmogorov-Smirnov and Cramér-von Mises tests are consistent against fixed alternatives and have nontrivial power against rate-appropriate local alternatives. Simulations show that the corrected Kolmogorov-Smirnov test provides the most stable size control while retaining substantial local power. An application to the Lazega law-firm network rejects additive linear and quadratic specifications but finds no remaining misspecification after including an economically relevant interaction.
 
-</details>
+
 
 
 * ### Smoothed GMM for Panel Quantile Models with Endogenous Regressors
@@ -134,7 +133,5 @@ author_profile: true
   This paper develops a smoothed generalized method of moments framework for panel quantile models with individual-specific fixed effects and endogenous regressors. By smoothing the indicator in the quantile moment conditions and profiling out the individual effects through smoothed individual quantile restrictions, the proposed estimator can be implemented using standard GMM algorithms.
 We establish consistency, asymptotic normality, and feasible inference under weak time dependence as both panel dimensions diverge. This dependence structure accommodates dynamic panel specifications, serially dependent disturbances, lagged instruments, and within-individual heteroskedasticity and autocorrelation consistent inference. Monte Carlo simulations show that the estimator yields robust inference while remaining computationally tractable. An application to OECD inflation dynamics suggests asymmetric inflation propagation: under the structural IVQR interpretation, the response of current inflation to lagged inflation is substantially larger at the lower structural quantile than at the upper structural quantile.
 
-
-</details>
 
 
