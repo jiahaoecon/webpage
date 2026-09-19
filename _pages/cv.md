@@ -1,6 +1,6 @@
 ---
 layout: redirected
 permalink: /cv/
-redirect_to: https://drive.google.com/file/d/1WbgpXMjXrHfDjOW00KR-CsFi_91ehIB5/view?usp=sharing
+redirect_to: https://drive.google.com/file/d/1egEmYfKUJyCeS3BT6V8XwTCTNBT4IMvv/view?usp=sharing
 ---
 
