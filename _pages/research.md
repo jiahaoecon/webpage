@@ -5,6 +5,21 @@ permalink: /research/
 author_profile: true
 ---
 # Publications
+* ### [Jackknife Variance Estimators for Two-Way Clustering with Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
+
+  with **K. Ulrich Hounyo** (accepted at *Journal of Econometrics*, 2026) [MATLAB](https://drive.google.com/file/d/1hMe0Yxt3EMx01Y4aXsjYmpePg2sB9QMc/view?usp=sharing)  [Stata](https://drive.google.com/file/d/1j4DYWiTqHxaZIPidARXHQGVdr7-jSJNy/view?usp=sharing)
+
+
+
+  <details>
+
+   <summary>   Abstract</summary>
+
+  Chiang, Hansen, and Sasaki (2024) and Chen and Vogelsang (2024) developed cluster-robust variance estimators (CRVEs) for linear regressions with two-way clustered data allowing for arbitrary serial dependence. However, conventional CRVEs can perform poorly in finite samples. We propose jackknife CRVEs and establish their theoretical validity. Our theoretical and simulation results demonstrate several advantages of the proposed procedures. First, the jackknife CRVE delivers more reliable finite-sample inference than the conventional two-way CRVE. Second, it avoids undefined standard errors arising from non-positive definite CRVEs. Third, in a benchmark setting, it is never downward biased. Finally, when the limiting distribution may be non-Gaussian, the proposed max-jackknife test remains asymptotically conservative.
+
+
+
+
 * ### [Wild Bootstrap Inference with Multiway Clustering and Serially Correlated Time Effects](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2546454)
 
     with **K. Ulrich Hounyo** (*Journal of Business & Economic Statistics* 2026, 44(2): 601-12)
@@ -33,19 +48,6 @@ author_profile: true
 <br>
 
 # Revise and Resubmit
-
-* ### [Jackknife Variance Estimators for Two-Way Clustering with Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
-
-  with **K. Ulrich Hounyo** (RR at *Journal of Econometrics*, 2024) [MATLAB](https://drive.google.com/file/d/1hMe0Yxt3EMx01Y4aXsjYmpePg2sB9QMc/view?usp=sharing)  [Stata](https://drive.google.com/file/d/1j4DYWiTqHxaZIPidARXHQGVdr7-jSJNy/view?usp=sharing)
-
-
-
-  <details>
-
-   <summary>   Abstract</summary>
-
-  Chiang, Hansen, and Sasaki (2024) and Chen and Vogelsang (2024) developed cluster-robust variance estimators (CRVEs) for handling arbitrary serial dependence in linear regressions with two-way clustered panel data. However, conventional CRVEs often perform poorly in finite samples. We propose improved jackknife CRVEs to enhance inference accuracy. Through extensive simulations, we show that the novel jackknife CRVEs deliver remarkably precise inferences. This strong performance holds even in the presence of two-way  fixed effects. Notably, one of our new approaches significantly mitigates issues of undefined standard errors when CRVEs are not positive definite, ensuring robust and consistent inference across scenarios.
-
 
 <br>
 
