@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 # Publications
-* ### [Jackknife Variance Estimators for Two-Way Clustering with Serially Correlated Time Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046919)
+* ### [Jackknife Variance Estimators for Two-Way Clustering with Serially Correlated Time Effects](https://doi.org/10.1016/j.jeconom.2026.106343)
 
   with **K. Ulrich Hounyo** (accepted at *Journal of Econometrics*, 2026) [MATLAB](https://drive.google.com/file/d/1hMe0Yxt3EMx01Y4aXsjYmpePg2sB9QMc/view?usp=sharing)  [Stata](https://drive.google.com/file/d/1j4DYWiTqHxaZIPidARXHQGVdr7-jSJNy/view?usp=sharing)
 
