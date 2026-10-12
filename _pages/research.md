@@ -97,7 +97,7 @@ author_profile: true
 
 
 
-* ### [Robust Inference for Dyadic Data with Dependent Ordered Nodes](https://arxiv.org/abs/2605.28349)
+* ### [Robust Inference for Dyadic Data with Spatially Dependent Nodes](https://arxiv.org/abs/2605.28349)
 
   with **K. Ulrich Hounyo** and **Xiaojun Song** (2026)
 
@@ -105,9 +105,7 @@ author_profile: true
 
   <summary>   Abstract</summary>
  
-  Dyadic regression models are commonly analyzed under the conventional dyadic dependence paradigm, in which two observations may be dependent only if the corresponding dyads share a node. This paper studies inference when this paradigm breaks down because nodes are ordered and nearby nodes are exposed to common latent shocks. In this setting, dyads with no common endpoint may still be dependent when their endpoints are close in the ordering. Although each additional covariance term may be weak, the number of nearby-node dyad pairs diverges with the sample size, so their aggregate contribution to the asymptotic variance can be non-negligible. We develop an inferential framework for dyadic arrays with ordered-node dependence. The first estimator is a dependent-node dyadic CRVE that retains covariance terms between dyads with nearby endpoints. The second is a row-column moving-block jackknife that deletes adjacent blocks of nodes together with all dyads touching those nodes. We establish the asymptotic validity of both procedures under weak dependence along the ordered node index. Monte Carlo evidence shows that accounting for ordered-node dependence can substantially improve size control, and that the jackknife version is comparatively stable in finite samples.
-
-
+  We develop inference for complete dyadic samples with spatial dependence governed by geographic distances between nodes, covering settings beyond the scope of existing dyadic inference theory. We propose spatial variance and corrected block jackknife estimators consistent in nondegenerate and degenerate Gaussian cases. Under degeneracy, spatial subsampling consistently estimates possibly non-Gaussian limits. Combining the jackknife with subsampling yields the max jackknifes-ubsampling (MJS) interval, which provides pointwise asymptotically exact coverage in both Gaussian cases and conservative coverage in the specified non-Gaussian case. Fixed-effect extensions show that estimating node effects can change the fast limiting distribution. Simulations and an empirical illustration are provided.
 
 * ### [Specification Testing for Dyadic Regression Models](https://arxiv.org/abs/2607.26366)
 
@@ -122,7 +120,7 @@ author_profile: true
 
 
 
-* ### Smoothed GMM for Panel Quantile Models with Endogenous Regressors
+* ### [GMM for Panel Data Quantile Regression](https://arxiv.org/abs/2610.12824)
 
   with **Antonio F. Galvao** and **K. Ulrich Hounyo** (2026)
 [MATLAB](https://drive.google.com/file/d/1wxqmJyZq8S6NciD4Hi6YhEDTTrRigLyJ/view?usp=sharing)
