@@ -69,7 +69,7 @@ author_profile: true
 
 
 
-* ### [Two-way Clustering Robust Variance Estimator in Quantile Regression Models](https://arxiv.org/abs/2602.16376)
+* ### [A Two-way Clustering Robust Variance Estimator in Quantile Regression Models](https://arxiv.org/abs/2602.16376)
 
   with **K. Ulrich Hounyo** (2025) [MATLAB](https://drive.google.com/file/d/1KeFXdTPAXa3iXTwqTApt4SWIljcjDi4L/view?usp=sharing)  [Stata](https://drive.google.com/file/d/1i_sEuy3lDVZWswrktqWbKTBuFZWMfqxm/view?usp=sharing)
 
@@ -133,5 +133,31 @@ author_profile: true
   This paper develops a smoothed generalized method of moments framework for panel quantile models with individual-specific fixed effects and endogenous regressors. By smoothing the indicator in the quantile moment conditions and profiling out the individual effects through smoothed individual quantile restrictions, the proposed estimator can be implemented using standard GMM algorithms.
 We establish consistency, asymptotic normality, and feasible inference under weak time dependence as both panel dimensions diverge. This dependence structure accommodates dynamic panel specifications, serially dependent disturbances, lagged instruments, and within-individual heteroskedasticity and autocorrelation consistent inference. Monte Carlo simulations show that the estimator yields robust inference while remaining computationally tractable. An application to OECD inflation dynamics suggests asymmetric inflation propagation: under the structural IVQR interpretation, the response of current inflation to lagged inflation is substantially larger at the lower structural quantile than at the upper structural quantile.
 
+* ### [Uniform Inference for Two-Way Clustered Data](https://arxiv.org/pdf/2611.16584)
+
+  with **K. Ulrich Hounyo**, **Xiaojun Song**, and **Hansheng Wang** (2026)
 
 
+   <details>
+
+   <summary>   Abstract</summary>
+
+   Statistical inference with two-way clustered data is complicated by the
+fact that the limiting law of the normalized full-array mean can change
+with the strength of dependence. Conventional Gaussian approximations
+can therefore fail, and this law cannot in general be estimated uniformly
+consistently. We propose an alternative estimator that averages means
+from repeated random matchings. Within each matching, no two observations
+share a row or column. We establish uniformly asymptotically exact
+Gaussian inference over laws that allow dependence to vary with sample
+size. An exact variance decomposition quantifies the efficiency cost
+and guides the choice of how many matchings to use. A positive
+semidefinite variance estimator permits inference without bootstrap
+calibration or preliminary classification of the dependence regime.
+Uniform coverage can entail an efficiency loss.
+With equal row and column clusters, however, the estimator
+can attain the full-array variance up to an arbitrarily slowly diverging factor. The result extends to smooth
+functions of generalized method of moments parameters even when moments
+exhibit different dependence regimes. Simulated coverage is close to
+nominal across designs. A speed-dating application illustrates inference
+when participants' choices may vary with market size.
