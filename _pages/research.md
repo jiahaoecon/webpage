@@ -47,7 +47,7 @@ author_profile: true
 
 <br>
 
-# Revise and Resubmit
+<!--# Revise and Resubmit-->
 
 <br>
 
